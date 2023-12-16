@@ -1,1 +1,1 @@
-# JobFinder
+# hh.ru parser
